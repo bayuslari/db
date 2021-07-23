@@ -24,28 +24,28 @@
     {
       "id": "resto",
       "name": "RESTO",
-      "link": "http://projects.bayuslari.com/resto",
+      "link": "https://projects.bayuslari.com/resto",
       "content": "Resto is a restaurant-themed HTML project I've been working on for my Belgian client. Consists of Home, About, Special Dishes, Menu, Team and Reservation page. This project was developed from my <a href='https://bayuslari.com/projects/strt'>STRT</a> as a core project.",
       "image": "https://i.ibb.co/Bcb3f6T/resto.webp"
     },
     {
       "id": "roxy",
       "name": "ROXY",
-      "link": "http://projects.bayuslari.com/roxy",
+      "link": "https://projects.bayuslari.com/roxy",
       "content": "Roxy is a agency-themed HTML project I've been working on for my Belgian client. Consists of Home, About, Blog and Contact page. This project was developed from my <a href='https://bayuslari.com/projects/strt'>STRT</a> as a core project.",
       "image": "https://i.ibb.co/r3W8Hsf/roxy.webp"
     },
     {
       "id": "moon",
       "name": "MOON",
-      "link": "http://projects.bayuslari.com/moon",
+      "link": "https://projects.bayuslari.com/moon",
       "content": "Moon is a one page portfolio HTML project I've been working on for my Belgian client. This project was developed from my <a href='https://bayuslari.com/projects/strt'>STRT</a> as a core project.",
       "image": "https://i.ibb.co/WH0YRD7/moon.webp"
     },
     {
       "id": "ocean-gaming",
       "name": "OCEAN GAMING",
-      "link": "http://projects.bayuslari.com/ocean-gaming",
+      "link": "https://projects.bayuslari.com/ocean-gaming",
       "content": "Ocean Gaming is a one page gaming-themed HTML project I've been working on for my Belgian client. This project was developed from my <a href='https://bayuslari.com/projects/strt'>STRT</a> as a core project.",
       "image": "https://i.ibb.co/CKDWm5z/ocean-gaming.webp"
     }
